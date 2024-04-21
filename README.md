@@ -16,11 +16,6 @@ In my personal life, i like to stick to my goals and work hard to achieve them. 
   </a>
 </p>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realbozorgmehr&show_icons=true&theme=dark&locale=en&layout=compact" alt="reza-golnari" />
-</div>
-
- 
 <br>
 
 <div>
