@@ -12,7 +12,7 @@ In my personal life, i like to stick to my goals and work hard to achieve them. 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,linux,ubuntu,html,css,bootstrap,bash,git,github,pycharm,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=python,django,linux,ubuntu,bash,git,github,rabbitmq,html,css,bootstrap" />
   </a>
 </p>
 
