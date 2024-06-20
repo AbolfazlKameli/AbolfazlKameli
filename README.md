@@ -12,16 +12,17 @@ am eager to gain more knowledge in my working field.
 
 ## Skills
 <p align="center">
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" alt="drf" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="insomnia" height="50px"> -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="insomnia" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50px">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
 </a>
 </p>
 
