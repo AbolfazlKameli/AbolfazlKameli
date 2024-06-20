@@ -15,16 +15,16 @@ am eager to gain more knowledge in my working field.
 ## Skills
 
 <p align="center">
-    <i class="devicon-python-plain" style="font-size:90px"></i>
-    <i class="devicon-django-plain colored" style="font-size:90px"></i>
-    <i class="devicon-djangorest-plain-wordmark" style="font-size:90px"></i>
-    <i class="devicon-rabbitmq-original colored" style="font-size:90px"></i>
-    <i class="devicon-linux-plain" style="font-size:90px"></i>
-    <i class="devicon-bash-plain" style="font-size:90px"></i>
-    <i class="devicon-git-plain colored" style="font-size:90px"></i>
-    <i class="devicon-github-original" style="font-size:90px"></i>
-    <i class="devicon-postman-plain colored" style="font-size:90px"></i>
-    <i class="devicon-markdown-original" style="font-size:90px"></i>
+<i class="devicon-python-plain" style="font-size:90px"></i>
+<i class="devicon-django-plain colored" style="font-size:90px"></i>
+<i class="devicon-djangorest-plain-wordmark" style="font-size:90px"></i>
+<i class="devicon-rabbitmq-original colored" style="font-size:90px"></i>
+<i class="devicon-linux-plain" style="font-size:90px"></i>
+<i class="devicon-bash-plain" style="font-size:90px"></i>
+<i class="devicon-git-plain colored" style="font-size:90px"></i>
+<i class="devicon-github-original" style="font-size:90px"></i>
+<i class="devicon-postman-plain colored" style="font-size:90px"></i>
+<i class="devicon-markdown-original" style="font-size:90px"></i>
 </p>
 
 <br>
