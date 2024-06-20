@@ -11,14 +11,12 @@ am eager to gain more knowledge in my working field.
 - 📫 How to reach me **abolfazlkameli0@gmail.com**
 
 ## Skills
-
-<p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github.postman,md" />
+    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github,postman" />
   </a>
 </p>
-</p>
+
 
 <br>
 
