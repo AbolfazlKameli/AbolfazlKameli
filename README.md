@@ -15,16 +15,12 @@ am eager to gain more knowledge in my working field.
 ## Skills
 
 <p align="center">
-<i class="devicon-python-plain" style="font-size:90px"></i>
-<i class="devicon-django-plain colored" style="font-size:90px"></i>
-<i class="devicon-djangorest-plain-wordmark" style="font-size:90px"></i>
-<i class="devicon-rabbitmq-original colored" style="font-size:90px"></i>
-<i class="devicon-linux-plain" style="font-size:90px"></i>
-<i class="devicon-bash-plain" style="font-size:90px"></i>
-<i class="devicon-git-plain colored" style="font-size:90px"></i>
-<i class="devicon-github-original" style="font-size:90px"></i>
-<i class="devicon-postman-plain colored" style="font-size:90px"></i>
-<i class="devicon-markdown-original" style="font-size:90px"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50px"/>
+
 </p>
 
 <br>
