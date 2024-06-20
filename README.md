@@ -12,14 +12,13 @@ In my personal life, i like to stick to my goals and work hard to achieve them. 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github,postman,markdown,aws" />
+    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github,postman,markdown" />
   </a>
 </p>
 
 <br>
 
 <div>
-
 ## Connect with me:
 - Email: [abolfazlkameli0@gmail.com](mailto:abolfazlkameli0@gmail.com)
 - Telegram: [@realbozorgmehr](https://t.me/realbozorgmehr)
