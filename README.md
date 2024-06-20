@@ -16,7 +16,7 @@ am eager to gain more knowledge in my working field.
     <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github,postman" />
   </a>
 </p>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 
 <br>
 
