@@ -15,7 +15,7 @@ am eager to gain more knowledge in my working field.
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github.postman.md" />
+    <img src="https://skillicons.dev/icons?i=python,django,rabbitmq,linux,bash,git,github.postman,md" />
   </a>
 </p>
 </p>
