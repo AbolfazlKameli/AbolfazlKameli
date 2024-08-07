@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Abolfazl Kameli and I have been working in the field of server side programming for two years.
+My name is Abolfazl Kameli and I have been working in the field of server side programming for one year.
 In my personal life, i like to stick to my goals and work hard to achieve them. I enjoy learning new computer topics and
 am eager to gain more knowledge in my working field.
 
