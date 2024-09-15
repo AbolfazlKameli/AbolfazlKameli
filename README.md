@@ -12,20 +12,9 @@ am eager to gain more knowledge in my working field.
 
 ## Skills
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" alt="drf" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger-ui" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="insomnia" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50px">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
-<img src="https://skillicons.dev/icons?i=regex" alt="regex" height="50px"/>
-</a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,rabbitmq,django,swagger,linux,postgres,postman,insomnia,git,github,markdown,regex" />
+  </a>
 </p>
 
 
