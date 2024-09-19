@@ -10,7 +10,7 @@ am eager to gain more knowledge in my working field.
 
 - 📫 How to reach me **abolfazlkameli0@gmail.com**
 
-## Skills
+## Tech Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,rabbitmq,django,swagger,linux,postgres,postman,insomnia,git,github,markdown,regex" />
