@@ -18,8 +18,7 @@ am eager to gain more knowledge in my working field.
 </p>
 
 
-<br>
-
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlKameli&theme=github-compact)
 <div>
 
 ## Connect with me:
@@ -29,4 +28,3 @@ am eager to gain more knowledge in my working field.
 - Instagram: [realbozorgmehr](https://www.instagram.com/realbozorgmehr)
 
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlKameli&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
