@@ -24,7 +24,7 @@ am eager to gain more knowledge in my working field.
 ## Connect with me:
 
 - Email: [abolfazlkameli0@gmail.com](mailto:abolfazlkameli0@gmail.com)
-- Telegram: [@realbozorgmehr](https://t.me/realbozorgmehr)
+- Telegram: [@real_denver](https://t.me/real_denver)
 - Instagram: [realbozorgmehr](https://www.instagram.com/realbozorgmehr)
 
 </div>
